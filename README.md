@@ -28,8 +28,8 @@ struct Developer {
         E nos meus momentos livres, gosto de:
         \(hobbies.joined(separator: ", ")).
 
-        Muito prazer em conhecer você! 🚀
-        ----------------------------------
+        Seja bem vindo ao meu perfil e é um prazer conhecer você!
+        --------------------------------------------------------
         """)
     }
 }
