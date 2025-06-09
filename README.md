@@ -46,6 +46,6 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosgarbossa&show_icons=true&theme=radical&hide_title=true&hide_rank=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosgarbossa&layout=compact&theme=radical&hide_title=false&locale=pt-br"/>
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=julianosgarbossa&show_icons=true&theme=radical&hide_title=true&hide_rank=true&locale=pt-br"/>
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosgarbossa&layout=compact&theme=radical&hide_title=false&locale=pt-br"/>
 </div>
