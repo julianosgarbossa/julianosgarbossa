@@ -3,7 +3,7 @@
 ---
 
 ### 👨🏻‍💻 Sobre:
-- 📱 Desenvolvedor iOS Júnior com foco em apps nativos, utilizando **Swift**, **UIKit(ViewCode)** e **SwiftUI**.
+- 📱 Desenvolvedor iOS Júnior com foco em aplicativos nativos, utilizando **Swift**, **SwiftUI** e **UIKit (ViewCode)**
 - 🎓 Formado em Sistemas de Informação (**Atitus**), pós-graduando em Desenvolvimento de Aplicativos Móveis (**PUCPR**).
 - 📚 Estudando **Código Limpo**, **SOLID**, **Padrões de Projeto** e **Arquiteturas Escaláveis** como: **VIP, VIPER e Clean Architecture**.
 - 🧩 Nos momentos livres, gosto de: jogar futebol, treinar, correr, curtir games, ler livros e codar por diversão.  
