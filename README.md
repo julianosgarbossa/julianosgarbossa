@@ -42,10 +42,3 @@
 <img src="https://img.shields.io/badge/AI-White?style=for-the-badge&logo=OPENAI&logoColor=white&color=%23412991"/>
 <img src="https://img.shields.io/badge/macos-White?style=for-the-badge&logo=apple&logoColor=white&color=%23000000"/>
 </p>
-
----
-
-<div align="center">
-  <img width="49%" style="margin-right:1%" src="https://github-readme-stats.vercel.app/api?username=julianosgarbossa&show_icons=true&theme=radical&hide_title=true&hide_rank=true&locale=pt-br"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosgarbossa&layout=compact&theme=radical&hide_title=false&locale=pt-br"/>
-</div>
